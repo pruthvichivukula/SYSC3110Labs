@@ -22,6 +22,7 @@ public class AddressBook {
 		AddressBook myAddressBook = new AddressBook();
 		myAddressBook.addBuddy(buddyHomer);
 		myAddressBook.removeBuddy(0);
+		//this was added in github, not eclipe...Wow so amazing
 	}
 
 }
